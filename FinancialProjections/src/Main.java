@@ -2,12 +2,12 @@
 public class Main {
 
 	static double numUsers = 100;
-	static double fractionHighSchoolJS = 0.015;
-	static double fractionUndergrad = 0.015;
-	static double fractionAdult = 0.0005;
-	static double numUSHighSchoolJS = 80;
-	static double numUSUndergrad = 15;
-	static double numUSAdults = 5;
+	static double fractionHighSchoolJS = 0.003; //changed from 1.5% to 0.3%
+	static double fractionUndergrad = 0.001; //changed from 1.5% to 0.1%
+	static double fractionAdult = 0; //don't include adults
+	static double numUSHighSchoolJS = 274078; //king county hschoolers
+	static double numUSUndergrad = 140000; //king county college
+	static double numUSAdults =0;//don't include adults
 			
 	static double numUserProperties = 35;
 	static double numMessagesPerUser = 100;
