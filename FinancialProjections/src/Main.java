@@ -1,13 +1,13 @@
 
 public class Main {
 
-	static double numUsers = 500000;
+	static double numUsers = 100;
 	static double fractionHighSchoolJS = 0.015;
 	static double fractionUndergrad = 0.015;
 	static double fractionAdult = 0.0005;
-	static double numUSHighSchoolJS = 8000000;
-	static double numUSUndergrad = 17300000;
-	static double numUSAdults = 250000000;
+	static double numUSHighSchoolJS = 80;
+	static double numUSUndergrad = 15;
+	static double numUSAdults = 5;
 			
 	static double numUserProperties = 35;
 	static double numMessagesPerUser = 100;
